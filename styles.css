@@ -1,5 +1,6 @@
 body {
     display: block;
+    background-color: #f8f8f8;
     padding: 1em 1em;
     font: 14px Verdana, Geneva, sans-serif;
 }
@@ -29,7 +30,6 @@ body {
     width: auto;
 }
 .email, #name{
-    background-color:#ffffff;
     margin: 0 auto;
     padding: 0.5em;
     border: solid 0.1em #E5E5E5;
@@ -38,7 +38,6 @@ body {
 }
 
 .txt{
-    background-color: #ffffff;
     padding: 0.5em;
     border: solid 0.1em #E5E5E5;
     border-radius: 1em;
