@@ -1,0 +1,47 @@
+body {
+    display: block;
+    padding: 1em 1em;
+    font: 14px Verdana, Geneva, sans-serif;
+}
+
+.wrapper{
+    max-width: 50em;
+    margin: auto;
+}
+
+.head, .main{
+    border-style: outset;
+    border-color: blue;
+    border-radius: 1em;
+    padding: 1em;
+    max-width: 49em;
+    margin: 1em;
+    text-align: center;
+}
+
+
+#logo{
+    float: left;
+    width: 60%;
+}
+.login{
+    display: inline-block;
+    width: auto;
+}
+.login, #logo{
+    background-color:#ffffff;
+    margin: 0 auto;
+    padding: 0.5em;
+    border: solid 0.1em #E5E5E5;
+    border-radius: 1em;
+    box-shadow: rgba(0,0,0, 0.1) 0em 0em 1em; /* Default property */
+}
+
+.txt{
+    background-color: #ffffff;
+    padding: 0.5em;
+    border: solid 0.1em #E5E5E5;
+    border-radius: 1em;
+    font: normal 14px Verdana, Tahoma, sans-serif;
+    box-shadow: rgba(0,0,0, 0.1) 0em 0em 1em; /* Default property */
+}
