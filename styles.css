@@ -20,15 +20,15 @@ body {
 }
 
 
-#logo{
+#name{
     float: left;
     width: 60%;
 }
-.login{
+.email{
     display: inline-block;
     width: auto;
 }
-.login, #logo{
+.email, #name{
     background-color:#ffffff;
     margin: 0 auto;
     padding: 0.5em;
