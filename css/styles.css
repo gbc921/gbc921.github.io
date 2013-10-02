@@ -24,15 +24,20 @@ body {
     text-align: center;
 }
 
+
 #name{
-    float: left;
-    width: 65%;
+    display: inline-block;
+    width: 60%;
+	height: 5em;
 }
-.email{
+#email{
     display: inline-block;
     width: auto;
+	height: 5em;
+	vertical-align: top;
 }
-.email, #name{
+
+#email, #name{
     margin: 0 auto;
     padding: 0.5em;
     border: solid 0.1em #E5E5E5;
