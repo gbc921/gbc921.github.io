@@ -2,7 +2,7 @@ body {
     display: block;
     background-color: #f8f8f8;
     padding: 1em 1em;
-    font: 14px Verdana, Geneva, sans-serif;
+    font: 1em Verdana, Geneva, sans-serif;
 }
 
 .wrapper{
@@ -23,16 +23,6 @@ body {
     margin: 1em;
     text-align: center;
 }
-.main{
-    border-style: outset;
-    border-color: #1993d1;
-    border-radius: 0.5em;
-    /*padding: 1em;*/
-    max-width: 49em;
-    margin: 1em;
-    text-align: center;
-}
-
 
 #name{
     float: left;
@@ -50,10 +40,8 @@ body {
     box-shadow: rgba(0,0,0, 0.1) 0em 0em 1em;
 }
 
-.txt{
-    padding: 0.5em;
-    border: solid 0.1em #E5E5E5;
-    border-radius: 1em;
-    font: normal 14px Verdana, Tahoma, sans-serif;
-    box-shadow: rgba(0,0,0, 0.1) 0em 0em 1em; /* Default property */
+h3{
+	font-size: 1.5em;
+	font-style: bold;
 }
+/* # vim:set ts=4 sw=4 noet: */
