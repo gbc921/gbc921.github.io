@@ -13,7 +13,7 @@ body {
 }
 
 .head, .footer{
-    border-bottom-style: outset;
+    border-bottom-style: inset;
     border-width: 0.5em;
     border-color: #1993d1;
     /*border-bottom-right-radius: 0.5em;*/
