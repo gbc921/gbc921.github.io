@@ -5,14 +5,14 @@ body {
     font: 1em Verdana, Geneva, sans-serif;
 }
 
-.wrapper{
+.wrapper {
     max-width: 50em;
     margin: auto;
     padding: 2em ;
     box-shadow: 0em 0em 3em grey;
 }
 
-.head, .footer{
+.head, .footer {
     border-bottom-style: inset;
     border-width: 0.5em;
     border-color: #1993d1;
@@ -34,19 +34,19 @@ body {
     text-align: center;
 }
 
-#name{
+#name {
     display: inline-block;
     width: 60%;
 	height: 5em;
 }
-#email{
+#email {
     display: inline-block;
     width: auto;
 	height: 5em;
 	vertical-align: top;
 }
 
-#email, #name{
+#email, #name {
     margin: 0 auto;
     padding: 0.5em;
     border: solid 0.1em #E5E5E5;
@@ -54,21 +54,21 @@ body {
     box-shadow: rgba(0,0,0, 0.1) 0em 0em 1em;
 }
 
-#email img{
+#email img {
 	width: 11em;
 }
 
-#accordion{
+#accordion {
 	max-width: 40em;
 	margin: auto;
 }
 
-h3{
+h3 {
 	/*font-size: 1.5em;*/
 	font-weight: bold;
 }
 
-.footer{
+.footer {
 	border-bottom-style: none;
 	border-top-style: outset;
 }
