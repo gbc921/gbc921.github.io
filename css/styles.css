@@ -24,6 +24,15 @@ body {
     text-align: center;
 }
 
+.info {
+	max-width: 39em;
+	margin: 1em auto;
+    padding: 1em;
+    border: solid 0.1em #E5E5E5;
+    border-radius: 0.5em;
+    box-shadow: rgba(0,0,0, 0.1) 0em 0em 1em;
+    text-align: center;
+}
 
 #name{
     display: inline-block;
